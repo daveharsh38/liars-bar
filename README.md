@@ -16,8 +16,8 @@ Select "Download ZIP" and extract it.
 
 Alternatively, clone the repository:
 
-git clone https://github.com/yourusername/yourgame.git
-cd yourgame
+git clone https://github.com/daveharsh38/liars-bar.git
+cd liars-bar
 
 💮 2. Run the Game (Windows & Mac/Linux)
 
@@ -33,7 +33,7 @@ Install Python (if not installed): Download Python
 
 Open a terminal in the game folder and run:
 
-python game.py
+python liars_bar.py
 
 ⚠️ Windows SmartScreen Warning Fix
 
@@ -83,7 +83,10 @@ This project is licensed under the MIT License – feel free to modify and impro
 
 👨‍💻 Author
 
-👤 Your Name📞 Email: your-email@example.com👉 LinkedIn: Your Profile👉 GitHub: @yourusername
+👤 Parth Chauhan📞 Email: parthchauhan812@gmail.com👉 LinkedIn: https://www.linkedin.com/in/parth-chauhan-592127215/👉 GitHub: @parth81220
+
+👤 Harsh Dave📞 Email: daveharsh38@gmail.com👉 LinkedIn: https://www.linkedin.com/in/dave-harsh/👉 GitHub: @daveharsh38
+
 
 🚀 Enjoy the game! If you like it, give it a ⭐ on GitHub!
 
