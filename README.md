@@ -107,12 +107,12 @@ For any bugs or feature requests, [open an issue](https://github.com/daveharsh38
 ---
 
 👤 **Parth Chauhan**  
-📞 Email: [parthchauhan812@gmail.com](parthchauhan812@gmail.com)  
+📞 Email: [parthchauhan812@gmail.com](mailto:parthchauhan812@gmail.com)  
 👉 LinkedIn: [parth-chauhan-592127215](https://www.linkedin.com/in/parth-chauhan-592127215/)
 👉 GitHub: [@parth81220](https://github.com/parth81220)  
 
-👤 **Your Name**  
-📞 Email: [daveharsh38@gmail.com](daveharsh38@gmail.com)  
+👤 **Harsh Dave**  
+📞 Email: [daveharsh38@gmail.com](mailto:daveharsh38@gmail.com)  
 👉 LinkedIn: [dave-harsh](https://www.linkedin.com/in/dave-harsh/)
 👉 GitHub: [@daveharsh38](https://github.com/daveharsh38) 
 
